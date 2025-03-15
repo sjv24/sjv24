@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Saarthak Jadhav! 👋
 
-<!--
-**sjv24/sjv24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** at the [University of Wollongong](https://www.uow.edu.au/) with a passion for **Data Science, AI, and FinTech**. I love working on projects that combine **technology and psychology** to create meaningful insights and solutions.
 
-Here are some ideas to get you started:
+### 🔍 About Me
+- 💡 Exploring **Machine Learning & Data Science**
+- 💻 Currently working on **MoodFlow** – a mood tracking & prediction app
+- 📊 Interested in **healthcare analytics and predictive modeling**
+- 🚀 Always learning and experimenting with new tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Skills
+- **Languages:** Python, HTML, CSS
+- **Libraries & Tools:** NumPy, Pandas
+- **Version Control:** Git, GitHub
+
+### 📌 Featured Projects
+- 🩺 [**Diabetes Prediction Model**]([https://github.com/sjv24/diabetes-prediction]) – Learnt to build a machine learning model to predict diabetes.
+- 🌟 [**Mood Tracker**]([https://github.com/sjv24/mood-tracker])– A **mood tracking** program using sentiment analysis
+
+### 📫 Connect with Me
+- 🌐 [LinkedIn](https://linkedin.com/in/sj42)
+- 📧 Email: [saarthakdj@gmail.com](mailto:saarthakdj@gmail.com)
+
+🚀 Let's build something amazing together!
