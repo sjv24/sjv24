@@ -1,6 +1,6 @@
 ### Hi there, I'm Saarthak Jadhav! 👋
 
-I'm a **Computer Science student** at the [University of Wollongong](https://www.uow.edu.au/) with a passion for **Data Science, AI, and FinTech**. I love working on projects that combine **technology and psychology** to create meaningful insights and solutions.
+I'm a **Computer Science student** with a passion for **Data Science, AI, and FinTech**. I love working on projects that combine **technology and psychology** to create meaningful insights and solutions.
 
 ### 🔍 About Me
 - 💡 Exploring **Machine Learning & Data Science**
