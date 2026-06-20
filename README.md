@@ -1,24 +1,45 @@
-### Hi there, I'm Saarthak Jadhav! 👋
+# Hi, I'm Saarthak Jadhav
 
-I'm a **Computer Science student** with a passion for **Data Science, AI, and FinTech**. I love working on projects that combine **technology and psychology** to create meaningful insights and solutions.
+Computer Science student interested in **FinTech, AI Engineering, and Data Science**.
 
-### 🔍 About Me
-- 💡 Exploring **Machine Learning & Data Science**
-- 💻 Currently working on **MoodFlow** – a mood tracking & prediction app
-- 📊 Interested in **healthcare analytics and predictive modeling**
-- 🚀 Always learning and experimenting with new tech
+Recently, I’ve been getting really into **NLP and AI systems engineering**. I started enjoying the engineering side of AI more than just training models- things like building pipelines, working with databases, integrating different LLMs, preprocessing text, and understanding how AI systems work end-to-end.
 
-### ⚡ Skills
-- **Languages:** Python, HTML, CSS
-- **Libraries & Tools:** NumPy, Pandas
-- **Version Control:** Git, GitHub
+I enjoy building projects that combine technology with human behavior and real-world problem solving.
 
-### 📌 Featured Projects
-- 🩺 [**Diabetes Prediction Model**]([https://github.com/sjv24/diabetes-prediction]) – Learnt to build a machine learning model to predict diabetes.
-- 🌟 [**Mood Tracker**]([https://github.com/sjv24/mood-tracker])– A **mood tracking** program using sentiment analysis
+---
 
-### 📫 Connect with Me
-- 🌐 [LinkedIn](https://linkedin.com/in/sj42)
-- 📧 Email: [saarthakdj@gmail.com](mailto:saarthakdj@gmail.com)
+## Tech Stack
 
-🚀 Let's build something amazing together!
+* **Languages:** Python, HTML, CSS
+* **Libraries & Tools:** NumPy, Pandas
+* **Other Tools:** Git, GitHub, Apache Airflow
+
+---
+
+## Projects
+
+### **AI & NLP Project** *(currently building)*
+
+Working on an AI-focused project involving **LLMs, NLP pipelines, databases, and backend workflows**.
+*Still in progress.*
+
+### **Weather ETL Pipeline**
+
+Built a weather data pipeline using **Apache Airflow** to automate ETL workflows for collecting, transforming, and managing weather data.
+
+---
+
+## Currently Exploring
+
+* **AI Engineering**
+* **NLP workflows & LLM pipelines**
+* **FinTech applications**
+* **Predictive analytics**
+* **Data pipelines & orchestration**
+
+---
+
+## Connect With Me
+
+* **LinkedIn:** linkedin.com/in/sj42
+* **GitHub:** github.com/sjv24
